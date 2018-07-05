@@ -1,2 +1,2 @@
-# leetcode
-My personal leetcode record
+# LeetCode
+## Follow your heart |-_-|
